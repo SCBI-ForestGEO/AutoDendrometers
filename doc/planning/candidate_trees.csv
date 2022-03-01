@@ -1,39 +1,39 @@
-﻿top.choices,tag,stemtag,sp,quadrat,biannual,intraannual,cored,treeID,stemID,dendro.start.year,dendro.start.month,dendro.start.day,record.quality,DBH.2018,mort.status,crown.illum,notes
-1,30233,1,fagr,306,1,1,1,3874,3874,2010,January,27,fair,107.2,A,3,"Largest beech, cored + biweekly. Not very representative, but an amazing tree."
-,30234,1,fagr,306,1,1,0,3875,3875,2013,June,3,good,8.1,,,
-1,30333,1,fagr,306,1,1,1,3969,3969,2013,June,3,good,22.2,A,1,smallest biweekly + cored beech
-,40562,1,fagr,406,1,1,0,5039,5039,2013,June,3,,8.6,,,
-1,40563,1,fagr,406,1,1,1,5040,5040,2013,June,3,excellent,36.5,A,1,"2nd-largest beech with biweekly dendro band, also cored"
-,40564,1,fagr,406,1,1,0,5041,5041,2013,June,3,,5.7,,,
-,40567,1,fagr,406,1,1,0,5044,5044,2013,June,3,,9.3,,,
-,40568,1,fagr,406,1,1,0,5045,5045,2013,June,3,,20,,,
-,60458,1,fagr,615,1,1,0,7443,7443,2013,June,3,,27,,,
-,60459,1,fagr,615,1,1,0,7444,7444,2013,June,3,fair,10,,,
-,60462,1,fagr,615,1,1,0,7447,7447,2013,June,3,excellent,21,A,,
-0,60562,1,fagr,614,1,1,0,7541,7541,2013,June,3,very good,7,AU/DS,,avoid- unhealthy (or dead)
-,60566,1,fagr,614,1,1,0,7545,7545,2013,June,3,,19.4,,,
-0,70096,1,quru,704,1,1,1,8126,8126,2010,January,27,good,89.3,AU,4,avoid- unhealthy
-,70126,1,quru,705,1,1,1,8152,8152,2011,March,24,very good,82.1,,,
-,100771,1,quru,1005,1,1,1,12422,12422,2010,January,27,good,96.8,A,4,largestbiweekly + cored quru
-,121305,1,quru,1211,1,1,1,16400,16400,2011,March,24,fair,75.4,,,
-,131087,1,quru,1310,1,1,1,18013,18013,2010,January,27,very good,66.5,A,3,
-,172202,1,quru,1717,1,1,1,25504,25504,2011,March,24,good,55.5,A,4,smallest biweekly + cored quru
-,112262,1,quru,1123,1,1,0,14979,14979,2011,March,24,good,12.3,A,2,smallest biweekly quru
-,192484,1,quru,1926,1,1,0,28895,28895,2011,March,24,fair,44,A,2,smallest biweekly quru
-0,110791,1,litu,1104,1,1,1,14158,14158,2011,March,24,very good,66,A,3,some crown damage/thinning
-1,111030,1,litu,1107,1,1,1,14380,14380,2011,March,24,very good,61.2,A,3,better of two (simimar-sized) LITUs with biweekly record + cores 
-0,30339,1,litu,307,1,1,0,3975,3975,2013,March,13,,,,,multistem
-,40569,1,litu,407,1,1,0,5046,5046,2013,June,3,good,28,A,3,
-,50650,1,litu,514,1,1,0,6521,6521,2013,June,3,good,18,A,2,
-,91477,1,litu,908,1,1,0,11143,11143,2011,March,24,fair,21,A,2,
-,112482,1,litu,1131,1,1,0,15189,15189,2011,March,24,fair,26,A,2,
-,121221,1,litu,1207,1,1,0,16317,16317,2011,March,24,fair,12,A,1,lowest DBH & crown.illum for a biweekly litu
-,72427,1,litu,730,1,1,0,9066,9066,2010,January,27,poor,142,A,1 - must be error,largest biweekly litu
-,110061,1,litu,1101,1,1,0,13507,13507,2010,January,27,poor (before 2014) / good (after 2014),120.5,A,4,2nd largest biweekly litu
-,62224,1,litu,622,1,1,0,7801,7801,2010,January,27,poor,104,,,
-1,190413,1,litu,1904,1,1,0,28001,28001,2010,January,27,very good,101,A,4,largest litu with great biweekly record
-,32126,1,litu,321,1,1,0,4355,4355,2010,January,27,very good,102,AU,4,
-,160910,1,litu,1607,1,1,0,23183,23183,2010,January,27,excellent,100,A,3,2nd largest healthy litu with great biweekly record
-,30331,1,cagl,306,1,1,0,3967,3967,2013,June,3,very good,23,A,1,very pronounced winter shrinkage
-0,40565,1,cagl,406,1,1,0,5042,5042,2013,June,3,good,18,AU,1,"low growth, unhealthy --> avoid"
-,40566,1,cagl,406,1,1,0,5043,5043,2013,June,3,very good,29,A,2,winer shrinkage
+﻿top.choices,designation,tag,stemtag,sp,quadrat,biannual,intraannual,cored,treeID,stemID,dendro.start.year,dendro.start.month,dendro.start.day,record.quality,DBH.2018,mort.status,crown.illum,notes
+1,FAGR - huge,30233,1,fagr,306,1,1,1,3874,3874,2010,January,27,fair,107.2,A,3,"Largest beech, cored + biweekly. Not very representative, but an amazing tree."
+,,30234,1,fagr,306,1,1,0,3875,3875,2013,June,3,good,8.1,,,
+1,,30333,1,fagr,306,1,1,1,3969,3969,2013,June,3,good,22.2,A,1,smallest biweekly + cored beech
+,,40562,1,fagr,406,1,1,0,5039,5039,2013,June,3,,8.6,,,
+1,FAGR - large,40563,1,fagr,406,1,1,1,5040,5040,2013,June,3,excellent,36.5,A,1,"2nd-largest beech with biweekly dendro band, also cored"
+,,40564,1,fagr,406,1,1,0,5041,5041,2013,June,3,,5.7,,,
+,,40567,1,fagr,406,1,1,0,5044,5044,2013,June,3,,9.3,,,
+,,40568,1,fagr,406,1,1,0,5045,5045,2013,June,3,,20,,,
+,,60458,1,fagr,615,1,1,0,7443,7443,2013,June,3,,27,,,
+,,60459,1,fagr,615,1,1,0,7444,7444,2013,June,3,fair,10,,,
+,,60462,1,fagr,615,1,1,0,7447,7447,2013,June,3,excellent,21,A,,
+0,,60562,1,fagr,614,1,1,0,7541,7541,2013,June,3,very good,7,AU/DS,,avoid- unhealthy (or dead)
+,,60566,1,fagr,614,1,1,0,7545,7545,2013,June,3,,19.4,,,
+0,,70096,1,quru,704,1,1,1,8126,8126,2010,January,27,good,89.3,AU,4,avoid- unhealthy
+,,70126,1,quru,705,1,1,1,8152,8152,2011,March,24,very good,82.1,,,
+,,100771,1,quru,1005,1,1,1,12422,12422,2010,January,27,good,96.8,A,4,largestbiweekly + cored quru
+,,121305,1,quru,1211,1,1,1,16400,16400,2011,March,24,fair,75.4,,,
+,,131087,1,quru,1310,1,1,1,18013,18013,2010,January,27,very good,66.5,A,3,
+,,172202,1,quru,1717,1,1,1,25504,25504,2011,March,24,good,55.5,A,4,smallest biweekly + cored quru
+,,112262,1,quru,1123,1,1,0,14979,14979,2011,March,24,good,12.3,A,2,smallest biweekly quru
+,,192484,1,quru,1926,1,1,0,28895,28895,2011,March,24,fair,44,A,2,smallest biweekly quru
+0,,110791,1,litu,1104,1,1,1,14158,14158,2011,March,24,very good,66,A,3,some crown damage/thinning
+1,LITU- large,111030,1,litu,1107,1,1,1,14380,14380,2011,March,24,very good,61.2,A,3,better of two (simimar-sized) LITUs with biweekly record + cores 
+0,,30339,1,litu,307,1,1,0,3975,3975,2013,March,13,,,,,multistem
+,,40569,1,litu,407,1,1,0,5046,5046,2013,June,3,good,28,A,3,
+,,50650,1,litu,514,1,1,0,6521,6521,2013,June,3,good,18,A,2,
+,,91477,1,litu,908,1,1,0,11143,11143,2011,March,24,fair,21,A,2,
+,,112482,1,litu,1131,1,1,0,15189,15189,2011,March,24,fair,26,A,2,
+,,121221,1,litu,1207,1,1,0,16317,16317,2011,March,24,fair,12,A,1,lowest DBH & crown.illum for a biweekly litu
+,,72427,1,litu,730,1,1,0,9066,9066,2010,January,27,poor,142,A,1 - must be error,largest biweekly litu
+,,110061,1,litu,1101,1,1,0,13507,13507,2010,January,27,poor (before 2014) / good (after 2014),120.5,A,4,2nd largest biweekly litu
+,,62224,1,litu,622,1,1,0,7801,7801,2010,January,27,poor,104,,,
+1,LITU- huge,190413,1,litu,1904,1,1,0,28001,28001,2010,January,27,very good,101,A,4,largest litu with great biweekly record
+,,32126,1,litu,321,1,1,0,4355,4355,2010,January,27,very good,102,AU,4,
+,,160910,1,litu,1607,1,1,0,23183,23183,2010,January,27,excellent,100,A,3,2nd largest healthy litu with great biweekly record
+,,30331,1,cagl,306,1,1,0,3967,3967,2013,June,3,very good,23,A,1,very pronounced winter shrinkage
+0,,40565,1,cagl,406,1,1,0,5042,5042,2013,June,3,good,18,AU,1,"low growth, unhealthy --> avoid"
+,,40566,1,cagl,406,1,1,0,5043,5043,2013,June,3,very good,29,A,2,winer shrinkage
