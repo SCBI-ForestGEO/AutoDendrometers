@@ -4,7 +4,7 @@
 Tomst point dendrometers : https://tomst.com/web/en/systems/tms/point-dendrometer/
 
 ## Initial Installation (n=8 bands)
-On March 2, 2022, we installed dendrometers on four species (LITU, QURU, CAGL, FAGR) in each of two size/ canopy positions (large canopy dominants, small sub-canopy trees).
+On March 2, 2022, we installed dendrometers on four species (LITU, QURU, CAGL, FAGR) in each of two size/ canopy positions (large canopy dominants, small sub-canopy trees). List of trees is [here](https://github.com/SCBI-ForestGEO/AutoDendrometers/blob/main/data/PointDendrometerTrees.csv).
 
 ### Species
 Species included most productive species in each of the genera that contributed most to whole-plot productivity from 2013-2018, 2 diffuse-porous and 2 ring-porous:
