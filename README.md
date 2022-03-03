@@ -1,2 +1,2 @@
 # AutoDendrometers
-data from automated dendrometers at the SCBI ForestGEO site
+Repository for automated dendrometers at the SCBI ForestGEO site: data, code, documentation, etc.
