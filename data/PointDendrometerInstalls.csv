@@ -1,0 +1,10 @@
+﻿install.ID,dendrmeterID,tag,record.start.year,record.start.month,record.start.day,start.notes,record.end.year,record.end.month,record.end.day,end.notes
+1,92221986,30233,2022,3,2,,,,,
+2,92221981,30333,2022,3,2,,,,,
+3,92221984,190413,2022,3,2,,,,,
+4,92221988,50650,2022,3,2,,,,,
+5,92221983,100771,2022,3,2,,,,,
+6,92221987,60582,2022,3,2,,,,,
+7,92221982,30331,2022,3,2,,,,,
+8,92221985,91486,2022,3,2,install position ~270 um,2022,3,2,sensor settled to position of 0um 
+9,92221985,91486,2022,3,15,hand-tightened to position reading of >600,,,,

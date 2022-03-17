@@ -1,9 +1,9 @@
-﻿dendrmeterID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,quadrat,dendro.start.year,dendro.start.month,dendro.start.day,install.ID,cored,notes
-92221986,30233,3874,3874,fagr,1072,3,306,2022,3,2,1,1,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot."
-92221981,30333,3969,3969,fagr,244,1,306,2022,3,2,1,1,Smallest FAGR with biweekly dendrometer bands + core.
-92221984,190413,28001,28001,litu,1015,4,1904,2022,3,2,1,0,
-92221988,50650,6521,6521,litu,191,2,514,2022,3,2,1,0,
-92221983,100771,12422,12422,quru,960,4,1005,2022,3,2,1,1,largest QURU with biweekly dendrometer bands + core 
-92221987,60582,7561,7561,quru,293,1,615,2022,3,2,1,0,
-92221982,30331,3967,3967,cagl,231,1,306,2022,3,2,1,0,Biweekly record shows very pronounced winter shrinkage
-92221985,91486,11152,11152,cagl,586,3,908,2022,3,2,1,0,"Dendro band readings were biannual only prior to 2022. Was just  59cm dbh in 2018 census, but fast growing/ probably past 60cm by time of dendrometer install"
+﻿dendrmeterID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,quadrat,dendro.start.year,dendro.start.month,dendro.start.day,cored,notes
+92221986,30233,3874,3874,fagr,1072,3,306,2022,3,2,1,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot."
+92221981,30333,3969,3969,fagr,244,1,306,2022,3,2,1,Smallest FAGR with biweekly dendrometer bands + core.
+92221984,190413,28001,28001,litu,1015,4,1904,2022,3,2,0,
+92221988,50650,6521,6521,litu,191,2,514,2022,3,2,0,
+92221983,100771,12422,12422,quru,960,4,1005,2022,3,2,1,largest QURU with biweekly dendrometer bands + core 
+92221987,60582,7561,7561,quru,293,1,615,2022,3,2,0,
+92221982,30331,3967,3967,cagl,231,1,306,2022,3,2,0,Biweekly record shows very pronounced winter shrinkage
+92221985,91486,11152,11152,cagl,586,3,908,2022,3,2,0,"Dendro band readings were biannual only prior to 2022. Was just  59cm dbh in 2018 census, but fast growing/ probably past 60cm by time of dendrometer install"

@@ -1,0 +1,14 @@
+﻿Column,Field,Field Description,Storage.Type,Units
+1/A,dendrmeterID,"ID number of point dendrometer, as printed on the unit",numeric (integer),-
+2/B,tag,"Tag number, appearing on aluminum tag attached to each tree; also matches dendrometer to plot data, though treeID is more secure",numeric (integer),-
+3/C,treeID,"Arbitrary numeric identifier for trees, identical to those used in the main plot database and useful for matching dendrometers to the plot data",numeric (integer),-
+4/D,stemID,"Arbitrary numeric identifier for stems, identical to those used in the main plot database and useful for matching dendrometers to the plot data",numeric (integer),-
+5/E,sp,"Four-letter species mnemonic, matching that used in main plot database",,-
+6/F,dbh.2018.mm,Tree diameter as recorded in the 2018 plot census,numeric (integer),mm
+7/G,crown.illum.2021,"Crown illumination index, as recorded in the 2021 mortality survey",numeric (integer),-
+8/H,quadrat,"Designation for 20x20 m quadrat, matching those used in main plot database",numeric (integer),-
+9/I,dendro.start.year,Year in which first dendrometer was installed on a tree and measurement record started,numeric (integer),-
+10/J,dendro.start.month,Month in which first dendrometer was installed on a tree and measurement record started,numeric (integer),-
+11/K,dendro.start.day,Day on which first dendroband was installed on a tree and measurements were first taken,numeric (integer),-
+12/L,cored,"Binary code (1=true, 0 = false) indicating whether we have a tree-ring record for the tree.",numeric (integer),-
+13/M,notes,Notes on the tree and its data record,numeric (integer),-
