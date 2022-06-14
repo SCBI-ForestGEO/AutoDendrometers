@@ -1,0 +1,8 @@
+﻿install.date,install.ID,dendrmeterID,top choices,designation,tag,stemtag,sp,quadrat,biannual,intraannual,cored,treeID,stemID,dendro.start.year,dendro.start.month,dendro.start.day,record.quality,DBH.2018,approx.circ.growth.2021,mort.status,crown.illum,avoid,notes,band notes
+,,,1,QUAL-huge,172499,1,qual,1730,1,1,0,25783,25783,2010,January,27,excellent,106,15,AU,3,,"breakage, wound (level 2) as FADs, 90% crown intact",
+,,,2,QUAL-huge,192560,1,qual,1930,1,1,0,28965,28965,2010,January,27,good,95,11,A,3,,,
+,,,,,162543,1,qual,1627,1,1,0,23878,23878,2010,January,27,fair,90,,A,3,,,
+,,,,,70536,1,qual,711,1,1,1,8537,8537,2010,January,27,good,60,9,A,3,,,
+,,,,,70519,1,qual,711,1,1,1,8520,8520,2010,January,27,good,55,4,A,3,,,
+,,,,QUAL- large,90752,1,qual,916,1,1,1,10963,10963,2011,March,24,good,54,13,A,1 - must be error,,,
+,,,,,112336,1,qual,1125,1,1,1,15051,15051,2011,March,24,fair,52,0.3,A,3,,avoid- poor record,
