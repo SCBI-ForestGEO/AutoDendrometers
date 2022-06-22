@@ -15,7 +15,7 @@
 ,,,1,CAOVL - understory,121301,1,caovl,1211,1,0,1,16396,16396,2011,March,24,?,25.2,,A,2,,,
 ,,,1,CAOVL- canopy ,192133,1,caovl,1923,1,0,0,28553,28553,2011,March,24,,57,,A,3,,,
 ,,,1,CACO - canopy,22315,1,caco,225,1,0,0,3338,3338,2019,February,22,,55.3,,A,3,,,
-,,,1,CACO- understory,60588,1,caco,615,1,1,0,7567,7567,2013,June,3,,30.5,,A,1,,,
+,,,1,CACO- understory,60588,1,caco,615,1,1,0,7567,7567,2013,June,3,excellent,30.5,,A,1,,,
 ,,,2,CACO- understory,70579,1,caco,714,1,0,0,8578,8578,2010,January,27,,24,,A,2,,,
 ,,,2,CACO - canopy,80401,1,caco,807,1,0,0,9477,9477,2010,January,27,,48,,AU,3,,"wound (level 2) as FAD, 100% crown intact",
 ,,,3,CACO- understory,171454,1,caco,1714,1,0,0,25271,25271,2019,February,21,,11.8,,A,1,,,
@@ -24,3 +24,7 @@
 ,,,1 or 2 or 3,CATO- understory,202201,1,cato,2017,1,0,0,30581,30581,2011,March,24,,14.1,,A,2,,,
 ,,,2,CATO - canopy,60266,1,cato,604,1,0,0,7262,7262,2019,February,21,,49.5,,A,3,,,currently biannual
 ,,,1,CATO - canopy,80180,1,cato,804,1,0,0,9268,9268,2010,January,27,,100.9,,AU,4,,"90% crown intact, FAD : broken, incorporated into fence. ",currently biannual
+,,,1,JUNI- canopy,60463,1,juni,615,1,1,0,7448,7448,2013,June,3,excellent,49.1,14,AU,3,,90% crown intact. FAD = would level 1. growing sgrongly,
+,,,field check,?,121374,1,juni,1216,1,0,0,16466,16466,2011,March,24,,31,29,DC (error),?,not growing 2022,tag buried,
+,,,,JUNI- canopy,142708,1,juni,1429,1,0,0,20599,20599,2010,January,27,,42.9,,A,3,,,
+,,,field check,JUNI- canopy,190568,1,juni,1912,1,0,0,28141,28141,2010,January,27,,93.4,22,AU,1 - must be error,,liana load = 2,
