@@ -6,7 +6,10 @@
 ,,,,,70519,1,qual,711,1,1,1,8520,8520,2010,January,27,good,55,4,A,3,,,
 ,,,,QUAL- large,90752,1,qual,916,1,1,1,10963,10963,2011,March,24,good,53.5,13,A,1 - must be error,,,
 ,,,,,112336,1,qual,1125,1,1,1,15051,15051,2011,March,24,fair,52,0.3,A,3,,avoid- poor record,
-,,,,QUAL- understory,,,QUAL….,,,,,,,,,,,,,,,,,
+,,,,,30225,1,qual,306,1,1,0,3866,3866,2013,June,3,good,28.7,2.75,AU,3,,90% crown intact; defoliation (50%),
+,,,,,82365,1,qual,829,1,1,0,10203,10203,2010,January,27,poor,44.4,3,A,3,,,
+,,,,,172203,1,qual,1717,1,1,0,25505,25505,2011,March,24,,37.3,,A,3,,,
+,,,1,QUAL- understory,102258,1,qual,1022,1,1,0,13195,13195,2011,March,24,good,43,3.5,A,2,,,
 ,,,2,PIST- understory,112136,1,pist,1120,1,0,1,14862,14862,2011,March,24,?,29.3,,A,3,,,
 ,,,2,PIST - canopy,112250,1,pist,1122,1,0,0,14967,14967,2011,March,24,?,43.1,,A,3,,,
 ,,,1,PIST- understory,122184,1,pist,1222,1,0,1,16710,16710,2011,March,24,?,23.7,,A,1,,,
@@ -32,4 +35,5 @@
 ,,,,QUPR-canopy,32540,1,qupr,332,1,0,0,4760,4760,2010,January,27,,86.5,-1,AU,3,low growth,"FAD; breakage, wound level 1; 85% crown intact",
 ,,,,,60161,1,qupr,608,1,0,1,7163,7163,2010,January,27,,86.9,2,DS (but AU from dendrobands),3,unhealthy,FAD = complete defoliation,
 ,,,2,QUPR-canopy,70278,1,qupr,704,1,0,0,8293,8293,2010,January,27,,69.5,,A,3,,,
-,,,1,QUPR-understory,121275,1,qupr,1209,1,0,0,16370,16370,2012,March,15,,26.3,1.5,A,1,,,currently biannual
+,,,2,QUPR-understory,121275,1,qupr,1209,1,0,0,16370,16370,2012,March,15,,26.3,1.5,A,1,,,currently biannual
+,,,1,QUPR-understory,162541,1,qupr,1627,1,0,0,23876,23876,2019,February,15,,41.1,5,A,2,,,currently biannual
