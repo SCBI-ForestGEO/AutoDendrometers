@@ -22,9 +22,9 @@
 ,,,2,CACO- understory,70579,1,caco,714,1,0,0,8578,8578,2010,January,27,,24,,A,2,,,
 ,,,2,CACO - canopy,80401,1,caco,807,1,0,0,9477,9477,2010,January,27,,48,,AU,3,,"wound (level 2) as FAD, 100% crown intact",
 ,,,3,CACO- understory,171454,1,caco,1714,1,0,0,25271,25271,2019,February,21,,11.8,,A,1,,,
-,,,1 or 2 or 3,CATO- understory,102148,1,cato,1019,1,0,0,13086,13086,2011,March,24,,25.3,,A,2,,,
-,,,1 or 2 or 3,CATO- understory,172248,1,cato,1719,1,0,0,25549,25549,2011,March,24,,28.3,,A,1,,,
-,,,1 or 2 or 3,CATO- understory,202201,1,cato,2017,1,0,0,30581,30581,2011,March,24,,14.1,,A,2,,,
+,,,3,CATO- understory,102148,1,cato,1019,1,0,0,13086,13086,2011,March,24,,25.3,2,A,2,,,
+,,,2,CATO- understory,172248,1,cato,1719,1,0,0,25549,25549,2011,March,24,,28.3,4.7,A,1,,,
+,,,1,CATO- understory,202201,1,cato,2017,1,0,0,30581,30581,2011,March,24,,14.1,7,A,2,,,
 ,,,2,CATO - canopy,60266,1,cato,604,1,0,0,7262,7262,2019,February,21,,49.5,,A,3,,,currently biannual
 ,,,1,CATO - canopy,80180,1,cato,804,1,0,0,9268,9268,2010,January,27,,100.9,,AU,4,,"90% crown intact, FAD : broken, incorporated into fence. ",currently biannual
 ,,,1,JUNI- canopy,60463,1,juni,615,1,1,0,7448,7448,2013,June,3,excellent,49.1,14,AU,3,,90% crown intact. FAD = would level 1. growing sgrongly,
@@ -43,4 +43,4 @@
 ,,,,,72024,1,quve,717,1,0,0,8670,8670,2010,January,27,,51.1,,A,3,,,
 ,,,,,101244,1,quve,1014,1,0,0,12861,12861,2010,January,27,,82.2,1,AU,3,unhealthy,"FAD: wound, rot",
 ,,,,,80121,1,quve,801,1,0,0,9215,9215,2019,February,5,,11.2,,AU,1,unhealthy,"FAD: wound, rot, 30% crown living",
-,,,,,201432,1,quve,2016,1,0,0,30376,30376,2011,March,24,,44.2,8,A,2,,,
+,,,1,QUVE-understory,201432,1,quve,2016,1,0,0,30376,30376,2011,March,24,,44.2,8,A,2,,,currently biannual
