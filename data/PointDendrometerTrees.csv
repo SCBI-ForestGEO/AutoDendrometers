@@ -1,0 +1,23 @@
+dendrmeterID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,quadrat,dendro.start.year,dendro.start.month,dendro.start.day,cored,notes
+92221986,30233,3874,3874,fagr,1072,3,306,2022,3,2,1,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot."
+92221981,30333,3969,3969,fagr,244,1,306,2022,3,2,1,Smallest FAGR with biweekly dendrometer bands + core.
+92221984,190413,28001,28001,litu,1015,4,1904,2022,3,2,0,
+92221988,50650,6521,6521,litu,191,2,514,2022,3,2,0,
+92221983,100771,12422,12422,quru,960,4,1005,2022,3,2,1,largest QURU with biweekly dendrometer bands + core 
+92221987,60582,7561,7561,quru,293,1,615,2022,3,2,0,
+92221982,30331,3967,3967,cagl,231,1,306,2022,3,2,0,Biweekly record shows very pronounced winter shrinkage
+92221985,91486,11152,11152,cagl,586,3,908,2022,3,2,0,"Dendro band readings were biannual only prior to 2022. Was just  59cm dbh in 2018 census, but fast growing/ probably past 60cm by time of dendrometer install"
+92223086,192560,28965,28965,qual,950,3,1930,2022,6,23,0,3 stems joining well above dendrometer
+92223080,102264,13201,13201,qual,464,2,1022,2022,6,23,0,
+92223073,112136,14862,14862,pist,293,2,1120,2022,6,23,1,
+92223075,112250,14967,14967,pist,431,3,1122,2022,6,23,0,"Crown is barely in the canopy. I wanted to move this dendrometer to tree with tag 142521 (originally not selected because it has lianas in crown), but couldn't remove bolt from tree."
+92223077,192133,28553,28553,caovl,570,3,1923,2022,6,23,0,
+92223071,102148,13086,13086,cato,253,2,1019,2022,6,23,0,
+92223085,22315,3338,3338,caco,553,3,225,2022,7,7,0,
+92223082,30584,4207,4207,quve,924,4,316,2022,1,7,0,
+92223079,32381,4606,4606,qupr,872,3,327,2022,1,7,1,"80% crown intact, FAD = wound level 1"
+92223084,60463,7448,7448,juni,491,3,615,2022,6,7,0,90% crown intact. FAD = would level 1. growing strongly
+92223072,70579,8578,8578,caco,240,2,714,2022,1,7,0,
+92223081,80180,9268,9268,cato,1009,4,804,2022,1,7,0,cool tree!
+92223083,121275,16370,16370,qupr,263,1,1209,2022,3,7,0,"From Jen Jordan: when mounting auto dendrometer, could not get a reading on spring tension (ie 400-1000). Revisit/ fix"
+92223076,121301,16396,16396,caovl,252,2,1211,2022,3,7,1,
