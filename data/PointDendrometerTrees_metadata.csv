@@ -1,5 +1,5 @@
-﻿Column,Field,Field Description,Storage.Type,Units
-1/A,dendrmeterID,"ID number of point dendrometer, as printed on the unit",numeric (integer),-
+Column,Field,Field Description,Storage.Type,Units
+1/A,dendrometerID,"ID number of point dendrometer, as printed on the unit",numeric (integer),-
 2/B,tag,"Tag number, appearing on aluminum tag attached to each tree; also matches dendrometer to plot data, though treeID is more secure",numeric (integer),-
 3/C,treeID,"Arbitrary numeric identifier for trees, identical to those used in the main plot database and useful for matching dendrometers to the plot data",numeric (integer),-
 4/D,stemID,"Arbitrary numeric identifier for stems, identical to those used in the main plot database and useful for matching dendrometers to the plot data",numeric (integer),-

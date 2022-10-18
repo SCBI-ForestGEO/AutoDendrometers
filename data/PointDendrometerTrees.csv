@@ -1,4 +1,4 @@
-dendrmeterID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,quadrat,dendro.start.year,dendro.start.month,dendro.start.day,cored,notes
+dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,quadrat,dendro.start.year,dendro.start.month,dendro.start.day,cored,notes
 92221986,30233,3874,3874,fagr,1072,3,306,2022,3,2,1,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot."
 92221981,30333,3969,3969,fagr,244,1,306,2022,3,2,1,Smallest FAGR with biweekly dendrometer bands + core.
 92221984,190413,28001,28001,litu,1015,4,1904,2022,3,2,0,
