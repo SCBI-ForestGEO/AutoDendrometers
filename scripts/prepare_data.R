@@ -36,7 +36,7 @@ for(band in trees$dendrometerID) {
     x <- x[!duplicated(x$timestamp,fromLast = TRUE), ] 
     
     # convert dates and units
-    x$timestamp <- as.POSIXct(x$timestamp, format = "%Y.%m.%d %H:%S")
+    x$timestamp <- as.POSIXct(x$timestamp, format = "%Y.%m.%d %H:%S", tz = "UTC")
     # all_data$mm <- all_data$mum * 0.001
     # all_data$dendrometerID <- factor(all_data$dendrometerID)
     
@@ -79,13 +79,28 @@ str(all_data)
 
 # coeff = max(all_data[all_data$V3 %in% 0,]$temperature)/max(all_data[all_data$V3 %in% 0,]$mm)
 
-png("results/dendroband_plots.png", width = 10, height = 10, units = "in", res = 300)
+all_data$sp <- trees$sp[match(all_data$dendrometerID, trees$dendrometerID)]
+
+all_data$ID <- paste(trees$dbh.2018.mm[match(all_data$dendrometerID, trees$dendrometerID)]/10, "cm -", all_data$dendrometerID)
+
+png("results/full_record_dendroband_plots.png", width = 10, height = 10, units = "in", res = 300)
 ggplot(data = all_data[all_data$V3 %in% 0,],) +
-  geom_line(aes(x = timestamp, y = mm, color = dendrometerID)) +
+  geom_line(aes(x = timestamp, y = mm, color = ID)) +
   # geom_line(aes(x = timestamp, y = temperature/coeff)) +
-  facet_wrap(~dendrometerID, scales = "free_y")
+  facet_wrap(~sp) #, scales = "free_y") 
+  # scale_y_continuous(minor_breaks = seq())
   # scale_y_continuous(sec.axis = sec_axis(~.*coeff, name = "Temperature [C]"))
 
 dev.off()
 
-plot(mm ~ timestamp, data =all_data[all_data$dendrometerID ==all_data$dendrometerID[1],], type = "l", col = all_data$dendrometerID)
+
+png("results/dendroband_plots_July18-24.png", width = 10, height = 10, units = "in", res = 300)
+ggplot(data = all_data[all_data$V3 %in% 0 & format(all_data$timestam, "%m-%d") %in% paste0("07-", c(18:24)),
+],) +
+  geom_line(aes(x = timestamp, y = mm, color = ID)) +
+  # geom_line(aes(x = timestamp, y = temperature/coeff)) +
+  facet_wrap(~sp, scales = "free_y") 
+# scale_y_continuous(minor_breaks = seq())
+# scale_y_continuous(sec.axis = sec_axis(~.*coeff, name = "Temperature [C]"))
+
+dev.off()
