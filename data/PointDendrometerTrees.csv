@@ -3,9 +3,9 @@ dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,habitat,quadrat,
 92223072,70579,8578,8578,caco,240,2,lowland,714,2022,7,1,0,2023.02.23,shrank between install and Feb. 2023
 92221982,30331,3967,3967,cagl,231,1,lowland,306,2022,3,2,0,2023.02.23,Biweekly record shows very pronounced winter shrinkage
 92221985,91486,11152,11152,cagl,586,3,upland,908,2022,3,2,0,,"Dendro band readings were biannual only prior to 2022. Was just  59cm dbh in 2018 census, but fast growing/ probably past 60cm by time of dendrometer install"
-92223077,192133,28553,28553,caovl,570,3,,1923,2022,6,23,0,,
+92223077,192133,28553,28553,caovl,570,3,borderline,1923,2022,6,23,0,,
 92223076,121301,16396,16396,caovl,252,2,upland,1211,2022,7,3,1,,
-92223071,102148,13086,13086,cato,253,2,,1019,2022,6,23,0,,
+92223071,102148,13086,13086,cato,253,2,upland,1019,2022,6,23,0,,
 92223081,80180,9268,9268,cato,1009,4,upland,804,2022,7,1,0,,
 92221986,30233,3874,3874,fagr,1072,3,lowland,306,2022,3,2,1,2023.02.23,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot."
 92221981,30333,3969,3969,fagr,244,1,lowland,306,2022,3,2,1,2023.02.23,Smallest FAGR with biweekly dendrometer bands + core.
@@ -29,4 +29,8 @@ dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,habitat,quadrat,
 ,142521,20457,20457,pist,484,3,upland,1422,2023,2,23,1,2023.02.23,has lianas
 ,62114,7692,7692,quve,308,4,upland,619,2023,2,23,0,2023.02.23,
 ,90752,10963,10963,qual,535,3,lowland,916,2023,2,23,1,2023.02.23,
-,,,,,,,,,,,,, ,
+,190568,28141,28141,juni,934,4,lowland,1912,,,,0, ,
+,60266,7262,7262,cato,,3,upland,604,,,,0,,
+,70278,8293,8293,qupr,,3,upland,704,,,,0,,
+,22601,,,juni,,2,lowland,0231,,,,,,tentative - ensure that it's healthy and in position 1 or 2
+,162024,,,quve,,1,,1618,,,,,,tentative - ensure that it's healthy and in position 1 or 2
