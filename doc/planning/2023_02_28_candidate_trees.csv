@@ -3,24 +3,21 @@
 ,,,avoid,JUNI- understory?,121374,1,juni,1216,1,0,0,16466,16466,2011,March,24,,31,29,,2 or 3,,not growing 2022,tag buried,
 ,,,not needed,JUNI- canopy,142708,1,juni,1429,1,0,0,20599,20599,2010,January,27,,42.9,3,AU,3,,,"A in 2022 census, 100% foliage",
 19,12,by stream,APPROVED,JUNI- canopy,190568,1,juni,1912,1,0,0,28141,28141,2010,January,27,,93.4,22,AU,4,lowland,,liana load = 2,
-,,,missing,JUNI- understory,,,juni,,,,,,,,,,,,,,,,,,
 7,4,deer exclosure,APPROVED,QUPR-canopy,70278,1,qupr,704,1,0,0,8293,8293,2010,January,27,,69.5,,A,3,upland,,,
 ,,,not needed,QUPR-understory,162541,1,qupr,1627,1,0,0,23876,23876,2019,February,15,,41.1,5,A,2,,,,currently biannual
 13,10,deer exclosure,APPROVED,QURU-large,131087,1,quru,1310,1,1,1,18013,18013,2010,January,27,very good,66.5,13,A,3,upland,,,
 ,,,not needed,QURU-large,172202,1,quru,1717,1,1,1,25504,25504,2011,March,24,good,55.5,,A,4,,,smallest biweekly + cored quru,
 ,,,INSTALLED,QUVE-canopy,62114,1,quve,619,1,0,0,7692,7692,2019,February,5,,30.8,15,A,4,upland,,currently biannual,
 ,,,not needed,QUVE-canopy,70216,1,quve,701,1,0,0,8234,8234,2010,January,27,,95.1,7,AU,4,,"AU, seems to be declining",fad: defoliation (50% foliage),
-7,17,hill to N of deer exclosure,use if no suitable understory,QUVE - canopy,72024,1,quve,717,1,0,0,8670,8670,2010,January,27,,51.1,,A,3,,,,
+7,17,hill to N of deer exclosure,not needed,QUVE - canopy,72024,1,quve,717,1,0,0,8670,8670,2010,January,27,,51.1,,A,3,,,,
 ,,,avoid,QUVE,101244,1,quve,1014,1,0,0,12861,12861,2010,January,27,,82.2,1,AU,3,,unhealthy,"FAD: wound, rot",
 ,,,avoid,QUVE-understory,80121,1,quve,801,1,0,0,9215,9215,2019,February,5,,11.2,,AU,1,,unhealthy,"FAD: wound, rot, 30% crown living",
 ,,,not needed,QUVE-canopy,201432,1,quve,2016,1,0,0,30376,30376,2011,March,24,,44.2,8,A,2--> 3 or 4,,,,currently biannual
-16,18,,to check,QUVE-understory,162024,,quve,1618,,,,,,,,,,29.4,,,1,,,,no dendro band
-10,4,,to check,QUVE-understory,100551,,quve,1004,,,,,,,,,,41,,,2,,,,no dendro band
-8,1,,to check,QUVE-understory,80121,,quve,0801,,,,,,,,,,11.2,,,2,,,,no dendro band
-5,6,,to check,QUVE-understory,50404,,quve,0506,,,,,,,,,,24.8,,,2,,,,no dendro band
+16,18,,to check,QUVE-1st choice understory ,162024,,quve,1618,,,,,,,,,,29.4,,,1,,,,no dendro band
+8,1,S of deer exclosure near road,to check,QUVE-2nd choice understory ,80121,,quve,0801,,,,,,,,,,11.2,,,2,,,,no dendro band
+5,6,deer exclosure,to check,QUVE-understory,50404,,quve,0506,,,,,,,,,,24.8,,,2,,,,no dendro band
 9,11,,to check,QUVE-understory,90631,,quve,0911,,,,,,,,,,17.8,,,2,,,,no dendro band
 13,20,,to check,QUVE-understory,132098,,quve,1320,,,,,,,,,,16.3,,,2,,,,no dendro band
-12,22,,to check,QUVE-understory,122234,,quve,1222,,,,,,,,,,33.9,,,2,,,,no dendro band
-10,25,,to check,QUVE-understory,102339,,quve,1025,,,,,,,,,,22.5,,,2,,,,no dendro band
+10,25,,to check,QUVE-understory - not great because higher elevation than 2 canopy individuals,102339,,quve,1025,,,,,,,,,,22.5,,,2,,,,no dendro band
 2,31,right where road leaves the plot,to check,JUNI- 1st choice understory ,22601,,juni,0231,,,,,,,,,,13.7,,,2,lowland,,,no dendro band
 14,1,,avoid,JUNI- understory - not great choice because upland and 2 canopy JUNI are lowland,140243,,juni,1401,,,,,,,,,,18.5,,,2,upland,,,no dendro band
