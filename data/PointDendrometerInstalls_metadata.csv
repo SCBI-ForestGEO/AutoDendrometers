@@ -6,8 +6,9 @@
 5/E,record.start.month,Month in which a dendrometer was installed OR ADJUSTED on a tree and new measurement record started,numeric (integer),-
 6/F,record.start.day,Day on which a dendroband was installed OR ADJUSTED on a tree and new measurement record started,numeric (integer),-
 7/G,record.start.hour,Hour local time during which install occurred. Used to check clocks on dendrometers.,numeric (integer),-
-8/H,start.notes,Notes on install,string,-
-9/I,record.end.year,Year in which a (reliable) dendrometer record ended,numeric (integer),-
-10/J,record.end.month,Month in which a (reliable) dendrometer record ended,numeric (integer),-
-11/K,record.end.day,Day on which which a (reliable) dendrometer record ended,numeric (integer),-
-12/L,end.notes,Notes on why record ended,string,-
+8/H,band.reading.at.install,Dendrometer band reading (window width) at time of install,numeric (double),mm
+9/I,start.notes,Notes on install,string,-
+10/J,record.end.year,Year in which a (reliable) dendrometer record ended,numeric (integer),-
+11/K,record.end.month,Month in which a (reliable) dendrometer record ended,numeric (integer),-
+12/L,record.end.day,Day on which which a (reliable) dendrometer record ended,numeric (integer),-
+13/M,end.notes,Notes on why record ended,string,-
