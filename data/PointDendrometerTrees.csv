@@ -24,14 +24,14 @@ dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum.2021,habitat,quadrat,
 92224521,40563,5040,5040,fagr,406,3,lowland,406,2023,2,23,1,2023.02.23,"2nd-largest beech with biweekly dendro band, also cored"
 92224526,32126,4355,4355,litu,1023,4,lowland,321,2023,2,23,0,2023.02.23,
 92223074,60588,7567,7567,caco,305,3,lowland,615,2023,2,23,0,2023.02.23,
-,92393,11540,11540,cagl,616,4,upland,925,2023,2,23,0,2023.02.23,
-,80554,9630,9630,caovl,529,3,borderline,813,2023,2,23,1,2023.02.23,
-,142521,20457,20457,pist,484,3,upland,1422,2023,2,23,1,2023.02.23,has lianas
-,62114,7692,7692,quve,308,4,upland,619,2023,2,23,0,2023.02.23,
-,90752,10963,10963,qual,535,3,lowland,916,2023,2,23,1,2023.02.23,
+92224529,92393,11540,11540,cagl,616,4,upland,925,2023,2,23,0,2023.02.23,
+92223078,80554,9630,9630,caovl,529,3,borderline,813,2023,2,23,1,2023.02.23,
+92224528,142521,20457,20457,pist,484,3,upland,1422,2023,2,23,1,2023.02.23,has lianas
+92224530,62114,7692,7692,quve,308,4,upland,619,2023,2,23,0,2023.02.23,
+92224527,90752,10963,10963,qual,535,3,lowland,916,2023,2,23,1,2023.02.23,
 ,190568,28141,28141,juni,934,4,lowland,1912,,,,0, ,
 ,60266,7262,7262,cato,495,3,upland,604,,,,0,,
 ,70278,8293,8293,qupr,695,3,upland,704,,,,0,,
-,22601,3617,3617,juni,137,2,lowland,0231,,,,,,tentative - verify that it's healthy and in position 1 or 2
+,22601,3617,3617,juni,137,2,lowland,231,,,,,,tentative - verify that it's healthy and in position 1 or 2
 ,162024,23379,23379,quve,294,1,,1618,,,,,,tentative - verify that it's healthy and in position 1 or 2
 ,50562,6442,6442,quru,688,3,lowland,514,,,,,,tentative - verify that it's healthy and in position 3 or 4
