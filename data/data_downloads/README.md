@@ -1,0 +1,1 @@
+This folder contains data files as downloaded in the field, organized into folders named with the year and month of download (named with earlier of two months if downloads occurred over a period spanning 2 months).
