@@ -19,7 +19,7 @@ for(band in trees$dendrometerID) {
   
   idx <- trees$dendrometerID %in% band
   
-  files <-  list.files("Tomst_field_downloads/", paste("data", as.character(band), sep = "_"), full.names = T)
+  files <-  list.files("data/master_data_records/", paste("data", as.character(band), sep = "_"), full.names = T)
   if(length(files) > 0) {  
     x <-  do.call(rbind, lapply(files, read.csv, sep = ";", h = F, row.names = 1, dec = ","))
     
