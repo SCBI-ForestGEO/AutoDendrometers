@@ -5,7 +5,7 @@ Column,Field,Field Description,Storage.Type,Units
 4/D,stemID,"Arbitrary numeric identifier for stems, identical to those used in the main plot database and useful for matching dendrometers to the plot data",numeric (integer),-
 5/E,sp,"Four-letter species mnemonic, matching that used in main plot database",string,-
 6/F,dbh.2018.mm,Tree diameter as recorded in the 2018 plot census,numeric (integer),mm
-7/G,crown.illum.2021,"Crown illumination index, as recorded in the 2021 mortality survey",numeric (integer),-
+7/G,crown.illum,"Crown illumination index. Initially filled based on recent mortality survey, sometimes modified based on observations at install.",numeric (integer),-
 8/H,habitat,"Qualitative categorical description of habitat type: lowland (close to stream in both distance and elevation, on relatively flat topography), upland (on hill, signficantly elevated above nearest stream)",string,-
 9/I,quadrat,"Designation for 20x20 m quadrat, matching those used in main plot database",numeric (integer),-
 10/J,dendro.start.year,Year in which first dendrometer was installed on a tree and measurement record started,numeric (integer),-
