@@ -30,7 +30,7 @@
 29,92224526,32126,2023,2,23,11,136.97,initial install,,,,
 30,92223085,22315,2023,2,23,11,,routine adjustment (tightened),,,,
 31,92223072,70579,2023,2,23,11,,routine adjustment (tightened),,,,
-32,92223074,60588,2023,2,23,11,52.03,initial install,,,,
+32,92223074,60588,2023,2,23,11,52.03,initial install,2023,4,14,dendrometer appears to be corrupted. Replaced with dendrometer 92231856.
 33,92223079,32381,2023,2,23,,,routine adjustment,,,,
 34,92224529,92393,2023,2,23,,121.15,initial install,,,,
 35,92223078,80554,2023,2,23,,27.62,initial install,,,,
@@ -51,3 +51,4 @@
 50,92223076,121301,2023,3,13,,,routine adjustment (loosened),,,,
 51,92221983,100771,2023,3,13,11,,routine adjustment (loosened),,,,
 52,92221985,91486,2023,3,13,,,"visited tree, forgot to write down whether adjusted. Assuming so.",,,,
+53,92231856,60582,2023,4,14,3,,new dendrometer on existing screw (replace dendrometer 92221987),,,,
