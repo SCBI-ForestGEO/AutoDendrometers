@@ -4,15 +4,15 @@
 3,92221984,190413,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,,,,
 4,92221988,50650,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,,,,
 5,92221983,100771,2022,3,2,,,initial install,2023,3,13,routine adjustment
-6,92221987,60582,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,,,,
+6,92221987,60582,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,2023,4,14,dendrometer appears to be corrupted. Replaced with dendrometer 92231856.
 7,92221982,30331,2022,3,2,,,initial install,2023,2,23,routine adjustment
 8,92221985,91486,2022,3,2,,,initial install. install position ~270 um,2022,3,2,sensor settled to position of 0um 
 9,92221985,91486,2022,3,15,,,hand-tightened to position reading of >600,2023,3,13,forgot to record whether adjusted. Assuming so.
 10,92223086,192560,2022,6,23,,,initial install,,,,
 11,92223080,102264,2022,6,23,,,initial install. Not adjusted 2023 because still in install range.,,,,
 12,92223073,112136,2022,6,23,,,initial install. Not adjusted 2023 because still in install range.,,,,
-13,92223075,112250,2022,6,23,,,initial install,,,,
-14,92223077,192133,2022,6,23,,,initial install,,,,
+13,92223075,112250,2022,6,23,,,initial install,2024,2,26,routine adjustment
+14,92223077,192133,2022,6,23,,,initial install,2023,2,28,routine adjustment
 15,92223071,102148,2022,6,23,,,initial install,2023,3,13,sensor settled to position of 0um 
 16,92223085,22315,2022,7,7,,,initial install,2023,2,23,sensor settled to position of 0um 
 17,92223082,30584,2022,7,1,,,initial install,2023,3,13,routine adjustment
@@ -20,35 +20,47 @@
 19,92223084,60463,2022,7,6,,,initial install,,,,
 20,92223072,70579,2022,7,1,,,initial install,2023,2,23,sensor settled to position of 0um 
 21,92223081,80180,2022,7,1,,,initial install. Not adjusted 2023 because still in install range.,,,,
-22,92223083,121275,2022,7,3,,,initial install. Not adjusted 2023 because still in install range.,,,,
+22,92223083,121275,2022,7,3,,,initial install. Not adjusted 2023 because still in install range.,2024,2,26,routine adjustment
 23,92223076,121301,2022,7,3,,,initial install,2023,3,13,routine adjustment
 24,92221981,30333,2023,2,23,9,,routine adjustment,,,,
 25,92221986,30233,2023,2,23,9,,routine adjustment,,,,
 26,92221982,30331,2023,2,23,9,,routine adjustment,,,,
 27,92224521,40563,2023,2,23,,98.38 ,initial install. Time was close to transition between 9 and 10am.,,,,
-28,92223084,60463,2023,2,23,10,85.96,routine adjustment,,,,
+28,92223084,60463,2023,2,23,10,85.96,routine adjustment,2024,2,26,routine adjustment
 29,92224526,32126,2023,2,23,11,136.97,initial install,,,,
-30,92223085,22315,2023,2,23,11,,routine adjustment (tightened),,,,
+30,92223085,22315,2023,2,23,11,,routine adjustment (tightened),2024,2,26,routine adjustment
 31,92223072,70579,2023,2,23,11,,routine adjustment (tightened),,,,
-32,92223074,60588,2023,2,23,11,52.03,initial install,2023,4,14,dendrometer appears to be corrupted. Replaced with dendrometer 92231856.
+32,92223074,60588,2023,2,23,11,52.03,initial install,2024,2,26,routine adjustment
 33,92223079,32381,2023,2,23,,,routine adjustment,,,,
 34,92224529,92393,2023,2,23,,121.15,initial install,,,,
-35,92223078,80554,2023,2,23,,27.62,initial install,,,,
+35,92223078,80554,2023,2,23,,27.62,initial install,2024,2,26,routine adjustment
 36,92224528,142521,2023,2,23,,124.95,initial install,,,,
 37,92224530,62114,2023,2,23,,47.77  ,initial install,,,,
 38,92224527,90752,2023,2,23,,103.79,initial install,,,,
 39,92231852,22601,2023,2,28,,,initial install. No dendroband at this date.,,,,
-40,92231855,50562,2023,2,28,,52.33,initial install,,,,
+40,92231855,50562,2023,2,28,,52.33,initial install,2024,2,26,routine adjustment
 41,92231857,60266,2023,2,28,,19.44,initial install,,,,
-42,92231853,70278,2023,2,28,,72.06,initial install,,,,
+42,92231853,70278,2023,2,28,,72.06,initial install,2024,2,26,routine adjustment
 43,92231851,162024,2023,2,28,,,initial install. No dendroband at this date.,,,,
 44,92231854,190568,2023,2,28,,53.72,initial install,,,,
 45,92223077,192133,2023,2,28,,,routine adjustment,,,,
 46,92223086,192560,2023,2,28,,,routine adjustment,,,,
 47,92223073,112136,2023,3,13,9,,routine adjustment (loosened),,,,
 48,92223071,102148,2023,3,13,10,,routine adjustment (tightened),,,,
-49,92223082,30584,2023,3,13,10,,routine adjustment (loosened),,,,
-50,92223076,121301,2023,3,13,,,routine adjustment (loosened),,,,
-51,92221983,100771,2023,3,13,11,,routine adjustment (loosened),,,,
-52,92221985,91486,2023,3,13,,,"visited tree, forgot to write down whether adjusted. Assuming so.",,,,
+49,92223082,30584,2023,3,13,10,,routine adjustment (loosened),2024,2,26,routine adjustment
+50,92223076,121301,2023,3,13,,,routine adjustment (loosened),2024,2,26,routine adjustment
+51,92221983,100771,2023,3,13,11,,routine adjustment (loosened),2024,2,26,routine adjustment
+52,92221985,91486,2023,3,13,,,"visited tree, forgot to write down whether adjusted. Assuming so.",2024,2,26,routine adjustment
 53,92231856,60582,2023,4,14,3,,new dendrometer on existing screw (replace dendrometer 92221987),,,,
+54,92223074,60588,2024,2,26,10:49,58.86,routine adjustment (loosened),,,,
+55,92223075,112250,2024,2,26,12:15,114.34,routine adjustment (loosened),,,,
+56,92223085,22315,2024,2,26,2:15,23.00,routine adjustment,,,,
+57,92221985,91486,2024,2,26,12:19,72.72,routine adjustment,,,,
+58,92223078,80554,2024,2,26,11:43,44.12,routine adjustment,,,,
+59,92223076,121301,2024,2,26,12:05,17.61,routine adjustment,,,,
+60,92223084,60463,2024,2,26,11:05,91.51,routine adjustment,,,,
+61,92231853,70278,2024,2,26,12:57,82.61,routine adjustment,,,,
+62,92223083,121275,2024,2,26,12:11,30.80,routine adjustment,,,,
+63,92231855,50562,2024,2,26,2:45,64.6,routine adjustment,,,,
+64,92221983,100771,2024,2,26,12:33,131.46,routine adjustment,,,,
+65,92223082,30584,2024,2,26,2:50,6.74,routine adjustment,,,,
