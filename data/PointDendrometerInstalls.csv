@@ -24,7 +24,7 @@
 23,92223076,121301,2022,7,3,,,initial install,2023,3,13,routine adjustment
 24,92221981,30333,2023,2,23,9,,routine adjustment,,,,
 25,92221986,30233,2023,2,23,9,,routine adjustment,,,,
-26,92221982,30331,2023,2,23,9,,routine adjustment,2023,12,,stopped reading sometime in Dec. 2023. Discovered May 2024.
+26,92221982,30331,2023,2,23,9,,routine adjustment,,,,
 27,92224521,40563,2023,2,23,,98.38 ,initial install. Time was close to transition between 9 and 10am.,,,,
 28,92223084,60463,2023,2,23,10,85.96,routine adjustment,2024,2,26,routine adjustment
 29,92224526,32126,2023,2,23,11,136.97,initial install,,,,
@@ -59,9 +59,11 @@
 58,92223078,80554,2024,2,26,11:43,44.12,routine adjustment,,,,
 59,92223076,121301,2024,2,26,12:05,17.61,routine adjustment,,,,
 60,92223084,60463,2024,2,26,11:05,91.51,routine adjustment,,,,
-61,92231853,70278,2024,2,26,12:57,82.61,routine adjustment,,,,
+61,92231853,70278,2024,2,26,12:57,82.61,routine adjustment,2024,5,21,ended because dendrometer was giving strange readings. Discovered that the end of the sensor had become embedded in the wood (wound response). 
 62,92223083,121275,2024,2,26,12:11,30.8,routine adjustment,,,,
 63,92231855,50562,2024,2,26,2:45,64.6,routine adjustment,,,,
 64,92221983,100771,2024,2,26,12:33,131.46,routine adjustment,,,,
 65,92223082,30584,2024,2,26,2:50,6.74,routine adjustment,,,,
 66,92224530,62114,2024,5,13,,,routine adjustment,,,,
+67,92236701,70278,2024,5,21,,90.7,"new dendrometer on same tree (new screw), replacing 92231853.",,,,
+68,92236705,22070,2024,5,21,,,initial install. No dendroband at this date.,,,,

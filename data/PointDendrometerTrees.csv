@@ -4,11 +4,11 @@ dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum,habitat,quadrat,dendr
 92223072,70579,8578,8578,caco,240,2,lowland,714,2022,7,1,0,2024.02.06,shrank between install and Feb. 2023
 92224529,92393,11540,11540,cagl,616,4,upland,925,2023,2,23,0,2024.03.12,
 92221985,91486,11152,11152,cagl,586,3,upland,908,2022,3,2,0,2024.02.06,"Dendro band readings were biannual only prior to 2022. Was just  59cm dbh in 2018 census, but fast growing/ probably past 60cm by time of dendrometer install"
-92221982,30331,3967,3967,cagl,231,1,lowland,306,2022,3,2,0,2024.05.13,Biweekly record shows very pronounced winter shrinkage
+92221982,30331,3967,3967,cagl,231,1,lowland,306,2022,3,2,0,2024.05.21,Biweekly record shows very pronounced winter shrinkage
 92223078,80554,9630,9630,caovl,529,3,borderline,813,2023,2,23,1,2024.02.06,
 92223077,192133,28553,28553,caovl,570,3,borderline,1923,2022,6,23,0,2024.02.06,
 92223076,121301,16396,16396,caovl,252,2,upland,1211,2022,7,3,1,2024.02.06,
-92223081,80180,9268,9268,cato,1009,4,upland,804,2022,7,1,0,2024.02.06,large crack detected in 3/13/2023; noted 2/26/24 that it looks dead
+92223081,80180,9268,9268,cato,1009,4,upland,804,2022,7,1,0,2024.02.06,"large crack detected in 3/13/2023; as of 5/21/2024 the crown is >1/2 dead, crack in trunk reveals hollow stem. Unclear if tree will survive."
 92231857,60266,7262,7262,cato,495,3,upland,604,2023,2,28,0,2024.02.06,
 92223071,102148,13086,13086,cato,253,2,upland,1019,2022,6,23,0,2024.02.06,
 92221986,30233,3874,3874,fagr,1072,3,lowland,306,2022,3,2,1,2024.05.13,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot."
@@ -27,7 +27,7 @@ dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum,habitat,quadrat,dendr
 92223086,192560,28965,28965,qual,950,3,upland,1930,2022,6,23,0,2024.02.06,3 stems joining well above dendrometer
 92223080,102264,13201,13201,qual,464,2,upland,1022,2022,6,23,0,2024.02.06,
 92223079,32381,4606,4606,qupr,872,3,upland,327,2022,7,1,1,2024.05.13,"80% crown intact, FAD = wound level 1"
-92231853,70278,8293,8293,qupr,695,3,upland,704,2023,2,28,0,2024.02.06,
+92236701,70278,8293,8293,qupr,695,3,upland,704,2024,5,21,0,2024.05.21,previously 92231853. This dendrometer became embedded (as opposed to moving out as the tree grew) and can't be trusted.
 92223083,121275,16370,16370,qupr,263,1,upland,1209,2022,7,3,0,2024.02.06,
 92231855,50562,6442,6442,quru,688,4,lowland,514,2023,2,28,,2024.02.06,
 92221983,100771,12422,12422,quru,960,4,upland,1005,2022,3,2,1,2024.02.06,largest QURU with biweekly dendrometer bands + core 
@@ -35,3 +35,4 @@ dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum,habitat,quadrat,dendr
 92223082,30584,4207,4207,quve,924,4,,316,2022,7,1,0,2024.02.06,
 92224530,62114,7692,7692,quve,308,4,upland,619,2023,2,23,0,2024.05.13,
 92231851,162024,23379,23379,quve,294,1,borderline,1618,2023,2,28,,2024.05.13,
+92236705,22070,35831,35831,cato,718,3,borderline,218,2024,5,21,,2024.05.21,"Added to replace to 80180, which has a massive wound and is AU"
