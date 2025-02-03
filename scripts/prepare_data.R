@@ -49,7 +49,7 @@ for(band in trees$dendrometerID) {
     
     # calculate mm from measurement value
     
-    x$mm <- (x$value - x$value[1])*(8890/(34000-1279)) * 0.001 # see LolluHandbppl.pdf page 14: The full range of digital numbers is from 1 279 up to 34 000. The curve intersects with the y axis at point 1 279; here the measurement is 0 µm. From this we may deduce the proportionality constant: 8 890/(34 000 – 1 279) And finally the formula for converting the digital number to micrometers:   µm = (Value – 12 79)*{8 890/(34 000-1 279)}
+    x$mm <- x$value * 0.001  #(x$value - x$value[1])*(8890/(34000-1279)) * 0.001 # see LolluHandbppl.pdf page 14: The full range of digital numbers is from 1 279 up to 34 000. The curve intersects with the y axis at point 1 279; here the measurement is 0 µm. From this we may deduce the proportionality constant: 8 890/(34 000 – 1 279) And finally the formula for converting the digital number to micrometers:   µm = (Value – 12 79)*{8 890/(34 000-1 279)}
     
     if(nrow(x)>0 ) all_data <- rbind(all_data, 
                       data.frame(dendrometerID = band, x))
