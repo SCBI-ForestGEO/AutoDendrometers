@@ -15,7 +15,7 @@ on:
 name: update_plots
 
 jobs:
-  QA_QC_checks:
+  update_plots:
     # Set the operating system CI assumes:
     runs-on: macOS-latest
     
