@@ -1,0 +1,17 @@
+Package: AutoDendrometers
+Title: Point dendrometers data for the SCBI ForestGEO plot
+Description: Repository for automated dendrometers at the SCBI ForestGEO site: data, code, documentation, etc.
+License: MIT + file LICENSE
+Version: 0.1.0
+Authors@R: c(
+    person(given = "Kristina", family = "Anderson-Teixeira", role = "aut", email = "teixeirak@si.edu", comment = c(ORCID = "0000-0001-8461-9713")),
+    person(given = "Valentine", family = "Herrmann", role = "aut", email = "herrmannv@si.edu")
+    )
+Depends: R (>= 4.0.0)
+Imports:
+  tidyverse,
+  ggrepel,
+  sf
+URL: https://github.com/SCBI-ForestGEO/AutoDendrometers
+BugReports: https://github.com/SCBI-ForestGEO/AutoDendrometers/issues
+
