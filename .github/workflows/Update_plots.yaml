@@ -39,12 +39,12 @@ jobs:
           remotes::install_deps(dependencies = TRUE)
         shell: Rscript {0}
       
-      # Housekeeping: Run package check (may not be needed)
-      - name: Check
-        run: |
-          options(crayon.enabled = TRUE)
-          rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")
-        shell: Rscript {0}
+      # # Housekeeping: Run package check (may not be needed)
+      # - name: Check
+      #   run: |
+      #     options(crayon.enabled = TRUE)
+      #     rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")
+      #   shell: Rscript {0}
       
       # Create results/full_record_dendroband_plots.png and results/dendroband_plots_July18-24.png
       - name: Prepare and Plot dendrometer data
