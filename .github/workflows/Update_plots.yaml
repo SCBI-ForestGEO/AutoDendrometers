@@ -2,6 +2,7 @@
 # (GA) continuous integration (CI) to run
 
 on:
+  workflow_dispatch
   push:
     paths:
       - 'data/**'
