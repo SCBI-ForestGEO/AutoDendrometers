@@ -10,32 +10,8 @@ on:
     paths:
       - 'data/**'
       - 'scripts/**'
-  workflow_dispatch:
-    inputs:
-      environment:
-        type: string
-        default: DEV
-        required: true
-
-jobs:    
-  prod:
-    if: ${{ github.event_name == 'push' && github.ref_name == 'master' || github.event.inputs.environment == 'PROD' }}
-    env:
-      environment: PROD
-    runs-on: ubuntu-latest
-    steps:
-      - name: Print value
-        run: echo ${{ env.environment }}
-        
-  dev:
-    if: ${{ github.event_name == 'push' && github.ref_name == 'development' || github.event.inputs.environment == 'DEV' }}
-    env:
-      environment: DEV
-    runs-on: ubuntu-latest
-    steps:
-      - name: Print value
-        run: echo ${{ env.environment }}
-
+  workflow_dispatch
+   
 # Name the workflow as it will appear on GA status page
 name: update_plots
 
