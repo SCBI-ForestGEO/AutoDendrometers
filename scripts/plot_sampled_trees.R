@@ -63,5 +63,5 @@ ggplot()  +
   theme(panel.background = element_rect(fill = "white"))
 
 
-ggsave("doc/AutoDendrometers_map.jpg")  
+ggsave("doc/AutoDendrometers_map.jpg", height = 8, width = 6, dpi = 300, units = "in")  
 
