@@ -54,12 +54,12 @@ jobs:
           source("scripts/prepare_data.R")
         shell: Rscript {0}     
         
-      # Create doc/AutoDendrometers_map.jpg
-      - name: Map of denrometers
-        id: plot_sampled_trees
-        run: |
-          source("scripts/plot_sampled_trees.R")
-        shell: Rscript {0}
+      # # Create doc/AutoDendrometers_map.jpg THIS DOES NOT WORK AS IT RELIES ON FILES OUTSIDE OF THIS REPO
+      # - name: Map of denrometers
+      #   id: plot_sampled_trees
+      #   run: |
+      #     source("scripts/plot_sampled_trees.R")
+      #   shell: Rscript {0}
 
 
       # Commit and push all new files, assigned to GA bot
