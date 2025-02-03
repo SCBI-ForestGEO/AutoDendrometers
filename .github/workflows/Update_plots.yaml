@@ -10,7 +10,7 @@ on:
     paths:
       - 'data/**'
       - 'scripts/**'
-  workflow_dispatch
+  workflow_dispatch:
    
 # Name the workflow as it will appear on GA status page
 name: update_plots
