@@ -1,4 +1,4 @@
-﻿install.ID,dendrmeterID,tag,record.start.year,record.start.month,record.start.day,record.start.hour,band.reading.at.install,start.notes,record.end.year,record.end.month,record.end.day,end.notes
+install.ID,dendrmeterID,tag,record.start.year,record.start.month,record.start.day,record.start.hour,band.reading.at.install,start.notes,record.end.year,record.end.month,record.end.day,end.notes
 1,92221986,30233,2022,3,2,,,initial install,2023,2,23,routine adjustment
 2,92221981,30333,2022,3,2,,,initial install,2023,2,23,routine adjustment
 3,92221984,190413,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,,,,
@@ -6,26 +6,26 @@
 5,92221983,100771,2022,3,2,,,initial install,2023,3,13,routine adjustment
 6,92221987,60582,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,2023,4,14,dendrometer appears to be corrupted. Replaced with dendrometer 92231856.
 7,92221982,30331,2022,3,2,,,initial install,2023,2,23,routine adjustment
-8,92221985,91486,2022,3,2,,,initial install. install position ~270 um,2022,3,2,sensor settled to position of 0um 
+8,92221985,91486,2022,3,2,,,initial install. install position ~270 um,2022,3,2,sensor settled to position of 0um
 9,92221985,91486,2022,3,15,,,hand-tightened to position reading of >600,2023,3,13,forgot to record whether adjusted. Assuming so.
 10,92223086,192560,2022,6,23,,,initial install,,,,
 11,92223080,102264,2022,6,23,,,initial install. Not adjusted 2023 because still in install range.,,,,
 12,92223073,112136,2022,6,23,,,initial install. Not adjusted 2023 because still in install range.,,,,
 13,92223075,112250,2022,6,23,,,initial install,2024,2,26,routine adjustment
 14,92223077,192133,2022,6,23,,,initial install,2023,2,28,routine adjustment
-15,92223071,102148,2022,6,23,,,initial install,2023,3,13,sensor settled to position of 0um 
-16,92223085,22315,2022,7,7,,,initial install,2023,2,23,sensor settled to position of 0um 
+15,92223071,102148,2022,6,23,,,initial install,2023,3,13,sensor settled to position of 0um
+16,92223085,22315,2022,7,7,,,initial install,2023,2,23,sensor settled to position of 0um
 17,92223082,30584,2022,7,1,,,initial install,2023,3,13,routine adjustment
 18,92223079,32381,2022,7,1,,,initial install,2023,2,23,routine adjustment
 19,92223084,60463,2022,7,6,,,initial install,,,,
-20,92223072,70579,2022,7,1,,,initial install,2023,2,23,sensor settled to position of 0um 
+20,92223072,70579,2022,7,1,,,initial install,2023,2,23,sensor settled to position of 0um
 21,92223081,80180,2022,7,1,,,initial install. Not adjusted 2023 because still in install range.,,,,
 22,92223083,121275,2022,7,3,,,initial install. Not adjusted 2023 because still in install range.,2024,2,26,routine adjustment
 23,92223076,121301,2022,7,3,,,initial install,2023,3,13,routine adjustment
 24,92221981,30333,2023,2,23,9,,routine adjustment,,,,
 25,92221986,30233,2023,2,23,9,,routine adjustment,,,,
 26,92221982,30331,2023,2,23,9,,routine adjustment,,,,
-27,92224521,40563,2023,2,23,,98.38 ,initial install. Time was close to transition between 9 and 10am.,,,,
+27,92224521,40563,2023,2,23,,98.38,initial install. Time was close to transition between 9 and 10am.,,,,
 28,92223084,60463,2023,2,23,10,85.96,routine adjustment,2024,2,26,routine adjustment
 29,92224526,32126,2023,2,23,11,136.97,initial install,,,,
 30,92223085,22315,2023,2,23,11,,routine adjustment (tightened),2024,2,26,routine adjustment
@@ -35,7 +35,7 @@
 34,92224529,92393,2023,2,23,,121.15,initial install,,,,
 35,92223078,80554,2023,2,23,,27.62,initial install,2024,2,26,routine adjustment
 36,92224528,142521,2023,2,23,,124.95,initial install,,,,
-37,92224530,62114,2023,2,23,,47.77  ,initial install,,,,
+37,92224530,62114,2023,2,23,,47.77,initial install,,,,
 38,92224527,90752,2023,2,23,,103.79,initial install,,,,
 39,92231852,22601,2023,2,28,,,initial install. No dendroband at this date.,,,,
 40,92231855,50562,2023,2,28,,52.33,initial install,2024,2,26,routine adjustment
@@ -67,3 +67,13 @@
 66,92224530,62114,2024,5,13,,,routine adjustment,,,,
 67,92236701,70278,2024,5,21,,90.7,"new dendrometer on same tree (new screw), replacing 92231853.",,,,
 68,92236705,22070,2024,5,21,,,initial install. No dendroband at this date.,,,,
+69,92221982,30331,2022,3,2,,,initial install,2025,5,29,routine tension adjustment (tension  from 4688 to 363)
+70,92221986,30233,2022,3,2,,,initial install,2025,6,11,"Attempt at tension adjustment. initially 7200, tried to loosen screw / spring barely touching tree/  no reading on lolly. Tightened slightly. Uploaded photo."
+71,92221981,30333,2022,3,2,,,initial install,2025,6,11,routine tension adjustment (tension  from 6300 to 1100)
+72,92224521,40563,2023,2,23,,98.38,initial install. Time was close to transition between 9 and 10am.,2025,6,11,routine tension adjustment (tension  from 6580 to 2130; didn’t adjust more as screw almost coming off. Uploaded photo
+73,92221987,60582,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,2025,6,11,routine tension adjustment (tension  from 2882 to 420)
+74,92223084,60463,2022,7,6,,,initial install,2025,6,11,routine tension adjustment (tension  from 3300 to 645)
+75,92221988,50650,2022,3,2,,,initial install. Not adjusted 2023 because still in install range.,2025,6,11,routine tension adjustment (tension  from 1500 to 930)
+76,92231855,50562,2023,2,28,,52.33,initial install,2025,6,11,routine tension adjustment (tension  from 3700 to 1100)
+77,92223072,70579,2022,7,1,,,initial install,2025,6,11,routine tension adjustment (tension  from 1101 to 768)
+78,92224527,90752,2023,2,23,,103.79,initial install,2025,6,11,Spring bent/ not touching tree/ dendrometer needs replacing
