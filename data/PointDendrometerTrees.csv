@@ -1,7 +1,7 @@
 dendrometerID,tag,treeID,stemID,sp,dbh.2018.mm,crown.illum,habitat,quadrat,dendro.start.year,dendro.start.month,dendro.start.day,cored,last.checked,notes
 92236705,22070,35831,35831,cato,718,3,borderline,218,2024,5,21,,2024.05.21,"Added to replace to 80180, which has a massive wound and is AU"
 92223085,22315,3338,3338,caco,553,3,borderline,225,2022,7,7,0,2025.08.19,accidentally downloaded twice / set new bookmark in spring 2024
-92231852,22601,3617,3617,juni,137,2,lowland,231,2023,2,28,,2025.08.19,8-19-25: adjusted tension 600 to 800.
+92231852,22601,3617,3617,aial,137,2,lowland,231,2023,2,28,,2025.08.19,"8-19-25: adjusted tension 600 to 800. 2026-06: was identified as juni, discovered mis-ID in 2026. should be discontinued."
 92221986,30233,3874,3874,fagr,1072,3,lowland,306,2022,3,2,1,2025.06.11,"Largest FAGR in plot. Has biweekly record, but poor. Cored, but no center because of heartrot. 6/11/25: spring appears to be minimally touching tree despite tension of 7200. Minimal animal chewing/ damage to dendrometer."
 92221982,30331,3967,3967,cagl,231,1,lowland,306,2022,3,2,0,2025.06.11,"Biweekly record shows very pronounced winter shrinkage. 6/11/25: tension 575. data won’t download, contacting Tomst, Full memory? ““Superblock address wrong. Send device for repair.” Is error message. Also memory appears full. Minimal animal chewing/ damage to dendrometer."
 92221981,30333,3969,3969,fagr,244,1,lowland,306,2022,3,2,1,2025.06.11,Smallest FAGR with biweekly dendrometer bands + core.
